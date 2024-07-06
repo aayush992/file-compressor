@@ -13,4 +13,4 @@
 * Compression ratio usually improves as the file size increases.
 * The website is made responsive (with HTML/CSS and Bootstrap) and interactive (with JavaScript ).
 
-<h2> Website </h2>- https://debrc.github.io/Huffmann-File-Compressor/
+
